@@ -22,4 +22,4 @@ This project involves creating a Command Line Interface (CLI) tool in .NET to pa
 ## Getting Started
 1. Clone the repository: `git clone `
 2. Build the project: `dotnet build`
-3. Run CLI commands: `dotnet CMD`
+3. Run CLI commands: `dotnet CLI`
