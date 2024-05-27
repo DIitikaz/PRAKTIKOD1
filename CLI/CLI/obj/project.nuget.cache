@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4x/uH6Dk8bG9JAEe+S+RLBOPncJ8Vx+4yhX/IAzl1CCNfOMaiqJZIrWzQHkNdZo/5sWk7n10IRUKNiM0c2WQA==",
+  "success": true,
+  "projectFilePath": "Y:\\Groups\\Group_3\\קצנלבוגן  יהודית\\cli\\CLI\\CLI\\CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hitmachut\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
